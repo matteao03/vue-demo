@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225bca"],{e658:function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("招聘")])},c=[],l=t("2877"),o={},i=Object(l["a"])(o,u,c,!1,null,null,null);i.options.__file="Job.vue";n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d225bca.3641a8df.js.map

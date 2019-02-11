@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bd9d8"],{"2d6f":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("维权")])},l=[],c=t("2877"),i={},o=Object(c["a"])(i,u,l,!1,null,null,null);o.options.__file="Law.vue";e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0bd9d8.7ab2bb9f.js.map
