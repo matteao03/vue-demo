@@ -1,0 +1,28 @@
+// 全局scss变量
+
+$button-color:#1fbdc8; //按钮颜色
+$anchor-text:#20c3cd; //链接的文字颜色
+$input-value:#323233;
+$text-color:#888;
+$item-color:#e8e8e8;
+
+$white:#fff;
+$black:#000;
+$red:#ff2121;
+
+//按钮样式
+@mixin button-style{
+    background-color:$button-color;
+    color:$white;
+    border-color:$button-color;
+}
+
+//导航栏样式
+@mixin custom-nav{
+    .van-nav-bar__text{
+        color:$anchor-text;
+    }
+    .van-icon{
+        color:$anchor-text;
+    }
+}
