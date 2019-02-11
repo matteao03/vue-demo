@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem');
 
 module.exports = {
   baseUrl: process.env.NODE_ENV === 'production'
-    ? '/'
+    ? '/vue-mobile'
     : '/',
 	devServer: {
         port: 8080, // 端口号
